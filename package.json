@@ -1,0 +1,25 @@
+{
+  "name": "testapp",
+  "version": "0.0.1",
+  "description": "Jo moi schaun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l1ph/slick.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Phil Hager",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l1ph/slick/issues"
+  },
+  "homepage": "https://github.com/l1ph/slick#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
